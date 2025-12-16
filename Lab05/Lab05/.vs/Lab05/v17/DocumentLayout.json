@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\Lab05\\Lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F5A46B-A08D-47E3-A0F6-7033DCFE49A6}|..\\Lab053\\Lab053.vcxproj|C:\\Users\\MUT-00\\MIIA0106-2025-A\\Lab05\\Lab053\\Lab053.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752E8721-9989-48E7-A1D0-531639835953}|..\\Lab052\\Lab052.vcxproj|C:\\Users\\MUT-00\\MIIA0106-2025-A\\Lab05\\Lab052\\Lab052.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6772D054-8393-4D81-9829-321ADAFDE7C5}|Lab05.vcxproj|C:\\Users\\MUT-00\\MIIA0106-2025-A\\Lab05\\Lab05\\Lab05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6772D054-8393-4D81-9829-321ADAFDE7C5}|Lab05.vcxproj|solutionrelative:Lab05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab053.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\Lab05\\Lab053\\Lab053.cpp",
+              "RelativeDocumentMoniker": "..\\Lab053\\Lab053.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\Lab05\\Lab053\\Lab053.cpp",
+              "RelativeToolTip": "..\\Lab053\\Lab053.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T09:54:31.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab052.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\Lab05\\Lab052\\Lab052.cpp",
+              "RelativeDocumentMoniker": "..\\Lab052\\Lab052.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\Lab05\\Lab052\\Lab052.cpp",
+              "RelativeToolTip": "..\\Lab052\\Lab052.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T09:52:57.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab05.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\Lab05\\Lab05\\Lab05.cpp",
+              "RelativeDocumentMoniker": "Lab05.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\MIIA0106-2025-A\\Lab05\\Lab05\\Lab05.cpp",
+              "RelativeToolTip": "Lab05.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T09:51:33.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
